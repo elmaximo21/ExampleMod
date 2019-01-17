@@ -1,0 +1,11 @@
+{
+  "modid": "example",
+  "name": "Example Mod",
+  "author_list": ["elmaximo21"],
+  "description": "An example mod to be an example.",
+  "version": "0.1",
+  "sts_version": "01-17-2019",
+  "mts_version": "2.6.0",
+  "dependencies": ["basemod"],
+  "update_json": ""
+}
